@@ -15,5 +15,6 @@ In this game, the computer randomly selects a number between 1 and 100. The play
 - Keeps count of the number of attempts
 - Clean and minimal console interface
 - Easy to extend with additional features
+
 ##Prerequisites
 Make sure you have **Python 3.x** installed on your system.
